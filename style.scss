@@ -40,6 +40,9 @@ body {
 //
 // .main
 //
+h1 a {
+  color: $headingColour;
+}
 
 .posts > .post {
   padding-bottom: 2em;
